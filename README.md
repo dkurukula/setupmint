@@ -1,9 +1,9 @@
 # setupmint
-configuration for linux mint live cd
+This is a script that configures a linux mint live disk
 
-linuxscript.py installs chrome, sets eastern time, makes fonts bigger
+**linuxscript.py** installs chrome, sets eastern time, makes fonts bigger
 
-double click and click run in terminal
+Double-click **linuxscript.py** and click run in terminal
 
-if it just opens a file with text then 
-right-click --> Properties --> Execute: make sure "Allow executing file as program" is checked
+If it just opens a file with text then: 
+Right-click --> Properties --> Execute: make sure "Allow executing file as program" is checked
